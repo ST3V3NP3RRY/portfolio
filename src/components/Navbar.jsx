@@ -6,7 +6,7 @@ const Navbar = () => {
       <ul className="flex items-center justify-center gap-6">
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
-        <Link to="/projects">Projects</Link>
+        <Link to="/projects">Work</Link>
         <Link to="/Contact">Contact</Link>
       </ul>
     </nav>

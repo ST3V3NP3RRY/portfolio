@@ -1,5 +1,7 @@
+import "./Home.css";
+
 const Home = () => {
-  return <h1>Home</h1>;
+  return <section className="h-full hero"></section>;
 };
 
 export default Home;
